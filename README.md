@@ -28,9 +28,9 @@ Uniform preprocessing steps like tokenization, padding, and truncation were appl
 | Model       | Accuracy | Generalization | Notes                        |
 |-------------|----------|----------------|------------------------------|
 | FLAN-T5     | 99.5%    | High           | Most consistent performance |
-| BART-Large  | 98.1%    | High           | Strong generalization       |
-| T5          | 95.3%    | Medium         | Stable but less precise     |
-| BART        | 94.7%    | Medium         | Decent baseline             |
+| BART-Large  | 92.1%    | High           | Strong generalization       |
+| T5          | 86.3%    | Medium         | Stable but less precise     |
+| BART        | 92.7%    | Medium         | Decent baseline             |
 
 ## ✅ Quick Start
 

@@ -31,3 +31,11 @@ Uniform preprocessing steps like tokenization, padding, and truncation were appl
 | BART-Large  | 98.1%    | High           | Strong generalization       |
 | T5          | 95.3%    | Medium         | Stable but less precise     |
 | BART        | 94.7%    | Medium         | Decent baseline             |
+
+## ✅ Quick Start
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/sanikautkr03/ConverSQL.git
+cd ConverSQL
